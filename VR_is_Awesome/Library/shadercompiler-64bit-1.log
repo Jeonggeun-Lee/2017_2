@@ -1,0 +1,39 @@
+Base path: D:/unity5.1.5f1/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-10708
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1483 outsize=556 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=1229 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2462 outsize=1176 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (57): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program with SOFTPARTICLES_OFF
+  api=4 type=0 insize=1588 outsize=0 kw=SOFTPARTICLES_OFF ok=0
+Cmd: preprocess
+  insize=2320 outsize=1059 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (55): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program with SOFTPARTICLES_OFF
+  api=4 type=0 insize=1560 outsize=0 kw=SOFTPARTICLES_OFF ok=0
+Cmd: preprocess
+  insize=2137 outsize=1344 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (62): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=1092 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=840 outsize=837 ok=1
+Cmd: preprocess
+  insize=1541 outsize=589 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (39): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=1254 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1364 outsize=1361 ok=1
+Cmd: preprocess
+  insize=2357 outsize=1120 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (57): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program with SOFTPARTICLES_OFF
+  api=4 type=0 insize=1536 outsize=0 kw=SOFTPARTICLES_OFF ok=0
+Cmd: preprocess
+  insize=1190 outsize=1187 ok=1
